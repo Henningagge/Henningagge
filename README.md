@@ -1,11 +1,20 @@
 ## Hi there 👋
-My Name is Henning, and i work at OTTO a german online Retailer also currently studing Computer sience at the Nordakademie in Elmshorn where i also live.
-My Passions are in the cypersecurity sector i have work at OTTO for the last 1.5 years in diffenrent cybersec departments in the frontend and operations.
-I like to code in Python and Typescript building whaterver i like.
 
-Currently i work on a way to control my socialmedia consume through a filter which let's me choose my poison i say so.
+My name is Henning, and I work at OTTO, a German online retailer. I'm also currently studying Computer Science at Nordakademie in Elmshorn, where I reside.
 
-I'm currently learning Power BI for dashbords we are designing for Operations data.
+My passion lies in the cybersecurity sector. I've worked at OTTO for the past 1.5 years across different cybersecurity departments, focusing on both frontend and operations.
 
-⚡ Fun fact:  I have spend more than 2000 houres staring on world maps so i'm a geografie king.
+### 💻 Skills & Technologies
+I enjoy coding in **Python** and **TypeScript**, working on both frontend and backend development. My toolkit includes technologies like **RabbitMQ**, **Tailwind CSS**, **SQLite**, and **Flask**.
 
+### 🚀 Current Projects & Learning
+Currently, I'm developing a method to control my social media consumption through a filter, allowing me to "choose my poison," so to speak.
+I'm also actively learning **Power BI** for dashboards we are designing for operations data.
+
+### 📚 Recently Explored
+In the past month, I've deepened my knowledge by reading "The Linux Command Line Bible," "Pro Git," and "The Software Architect's Handbook."
+
+### 🌐 Let's Connect!
+You can find me on Discord: `rero2142` 🎮
+
+⚡ Fun fact: I have spent more than 2000 hours staring at world maps, so I'm quite the geography enthusiast!
