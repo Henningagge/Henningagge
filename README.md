@@ -15,6 +15,6 @@ I'm also actively learning **Power BI** for dashboards we are designing for oper
 In the past month, I've deepened my knowledge by reading "The Linux Command Line Bible," "Pro Git," and "The Software Architect's Handbook."
 
 ### 🌐 Let's Connect!
-You can find me on Discord: `rero2142` 🎮
+You can find me on Discord: `rero2141` 🎮
 
 ⚡ Fun fact: I have spent more than 2000 hours staring at world maps, so I'm quite the geography enthusiast!
