@@ -18,3 +18,7 @@ In the past month, I've deepened my knowledge by reading "The Linux Command Line
 You can find me on Discord: `rero2141` 🎮
 
 ⚡ Fun fact: I have spent more than 2000 hours staring at world maps, so I'm quite the geography enthusiast!
+
+###Education:
+
+###Job
