@@ -17,8 +17,15 @@ In the past month, I've deepened my knowledge by reading "The Linux Command Line
 ### 🌐 Let's Connect!
 You can find me on Discord: `rero2141` 🎮
 
+### 📚 Education:
+Nordakademie, Elmshorn — Currently studying
+September 2024–Present
+A comprehensive study of Computer Science, focusing on Software Architecture and Quality.
+
+Eider Treene school, Tönning — Graduation
+August 2015–June 2024
+
+### 💼 Job:
+Currently Working for the OTTO GmbH & Co. KGaA as an Working Student in the Development of Data and Insights with Power Bi
+
 ⚡ Fun fact: I have spent more than 2000 hours staring at world maps, so I'm quite the geography enthusiast!
-
-###Education:
-
-###Job
