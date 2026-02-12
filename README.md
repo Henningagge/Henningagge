@@ -27,4 +27,6 @@ August 2015–June 2024.
 ### 💼 Job:
 Currently Working for the OTTO GmbH & Co. KGaA as an Working Student in the Development of Data and Insights with Power Bi
 
+### 🌟 Achivements and certifications:
+
 ⚡ Fun fact: I have spent more than 2000 hours staring at world maps, so I'm quite the geography enthusiast!
