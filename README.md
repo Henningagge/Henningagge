@@ -30,7 +30,7 @@ Currently Working for the OTTO GmbH & Co. KGaA as an Working Student in the Deve
 ### 🌟 Achivements and certifications:
 | Achievement | Issuer | Link |
 | :--- | :--- | :--- |
-| Certificate for Continued Education | Range Force | [View Certificate](https://link-to-your-image.com) |
+| Certificate for Continued Education | Range Force | [View Certificate](https://github.com/Henningagge/Henningagge/blob/main/rangeforcecertificate.pdf) |
 | Boot.dev typescript learning path | Boot.dev | [View Certificate](https://www.boot.dev/u/rero2141) |
 
 ⚡ Fun fact: I have spent more than 2000 hours staring at world maps, so I'm quite the geography enthusiast!
