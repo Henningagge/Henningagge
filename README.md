@@ -28,5 +28,9 @@ August 2015–June 2024.
 Currently Working for the OTTO GmbH & Co. KGaA as an Working Student in the Development of Data and Insights with Power Bi
 
 ### 🌟 Achivements and certifications:
+| Achievement | Issuer | Link |
+| :--- | :--- | :--- |
+| Certificate for Continued Education | Range Force | [View Certificate](https://link-to-your-image.com) |
+| Boot.dev typescript learning path | Boot.dev | [View Certificate](https://www.boot.dev/u/rero2141) |
 
 ⚡ Fun fact: I have spent more than 2000 hours staring at world maps, so I'm quite the geography enthusiast!
