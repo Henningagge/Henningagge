@@ -1,84 +1,97 @@
-## Frontendmasters Checklist for 2026
-javascript:
-1:[] JavaScript: The Hard parts, v3
-2:[] Intermediate Angular: Signals & Dependencys
-3:[] Advanced Angular: Performance & Enterprise
-4:[] Angular Fundamentals
-5:[] JavaScript Performance
-6:[] Asynchronous Programming in Javascript
-7:[] Intermidiate Typescript
-8:[] Typescript Fundamentals
+# Frontend Masters Checklist for 2026
 
+## JavaScript
+- [ ] JavaScript: The Hard Parts, v3  
+- [ ] Intermediate Angular: Signals & Dependencies  
+- [ ] Advanced Angular: Performance & Enterprise  
+- [ ] Angular Fundamentals  
+- [ ] JavaScript Performance  
+- [ ] Asynchronous Programming in JavaScript  
+- [ ] Intermediate TypeScript  
+- [ ] TypeScript Fundamentals  
 
-Code Performance:
-1:[] Web App Performance
-2:[] Web Performance Fundamentals, v2   
+---
 
+## Code Performance
+- [ ] Web App Performance  
+- [ ] Web Performance Fundamentals, v2  
 
+---
 
-Personal:
-1:[]  My DevSetup is Better than yours
-2:[]  Developer Productivity
-3:[]  Guide for launching your next big idea  
-4:[]  Introducing DevOps for Developers
-5:[]  Become a VS Code Power User 
-6:[]  Software Developer Success:Soft Skills & testing
-7:[]  Engineering Management Fundamentals 101
-8:[]  Enterprise Engineering Management 102
+## Personal Development
+- [ ] My Dev Setup is Better Than Yours  
+- [ ] Developer Productivity  
+- [ ] Guide for Launching Your Next Big Idea  
+- [ ] Introducing DevOps for Developers  
+- [ ] Become a VS Code Power User  
+- [ ] Software Developer Success: Soft Skills & Testing  
+- [ ] Engineering Management Fundamentals 101  
+- [ ] Enterprise Engineering Management 102  
 
+---
 
-Design and ux:
-1:[] Tailwind css 4+
-2:[] The Product Desing Process
-3:[] Enterprise UI Development: Microfrontends, Testing and stuff
-4:[] Responsive Web Design
-Testing:
-1:[] Testing and ModularFrontend
-2:[] Testing Fundamentals 
+## Design & UX
+- [ ] Tailwind CSS 4+  
+- [ ] The Product Design Process  
+- [ ] Enterprise UI Development: Microfrontends, Testing, and More  
+- [ ] Responsive Web Design  
 
+---
 
-AI and Agents:
-1:[] AI Agents Fundementals, v2
-2:[] Practical Prompt engineering
-3:[] Complete Intro to MCP
+## Testing
+- [ ] Testing and Modular Frontend  
+- [ ] Testing Fundamentals  
 
+---
 
-The shell unix and vim:
-1:[] Complete Intro to Linux and the Command-Line
+## AI & Agents
+- [ ] AI Agents Fundamentals, v2  
+- [ ] Practical Prompt Engineering  
+- [ ] Complete Intro to MCP  
 
+---
 
-IT Security:
-1:[] Permission Systems that scale
-2:[] Web Security, v2
-3:[] Web Authentification APIs
-4:[] Web Storage APIs
+## Shell, Unix & Vim
+- [ ] Complete Intro to Linux and the Command Line  
 
+---
 
-CLOUD and stuff:
-1:[] Enterprise Devops & cloud infrstructure
-2:[] Serverless with AWS Lambda
-3:[] Cloud Infrastructure: Startup to scale
-4:[] AWS For Front-End Engineers, v2 
+## IT Security
+- [ ] Permission Systems That Scale  
+- [ ] Web Security, v2  
+- [ ] Web Authentication APIs  
+- [ ] Web Storage APIs  
 
+---
 
-Data and sql:
-1:[] Tree and Graph Data Structers
-2:[] SQL Dunamentals
-3:[] Data Visualization First Steps
-4:[] The Last Algorithem courese you'll need 1
-5:[] The Last Algorithem course youll need 2
-6:[] Complre intro to databases
+## Cloud & Infrastructure
+- [ ] Enterprise DevOps & Cloud Infrastructure  
+- [ ] Serverless with AWS Lambda  
+- [ ] Cloud Infrastructure: Startup to Scale  
+- [ ] AWS for Front-End Engineers, v2  
 
+---
 
-Docker and Containers:
-1:[] Complet Intro to Containers, v2
-2:[] Complete Intro to Containers (feat.Docker)
+## Data & SQL
+- [ ] Tree and Graph Data Structures  
+- [ ] SQL Fundamentals  
+- [ ] Data Visualization: First Steps  
+- [ ] The Last Algorithm Course You'll Need — Part 1  
+- [ ] The Last Algorithm Course You'll Need — Part 2  
+- [ ] Complete Intro to Databases  
 
+---
 
-extra stuff:
-1:[] Backend System Desing
-2:[] Java Fundamentals
-3:[] Web Components
-4:[] A Tour of Web Capabilities
-5:[] A Tour of Web3: Ethereum & Smart Contracts
-6:[] Networking and Streams
+## Docker & Containers
+- [ ] Complete Intro to Containers, v2  
+- [ ] Complete Intro to Containers (feat. Docker)  
+
+---
+
+## Extra Topics
+- [ ] Backend System Design  
+- [ ] Java Fundamentals  
+- [ ] Web Components  
+- [ ] A Tour of Web Capabilities  
+- [ ] A Tour of Web3: Ethereum & Smart Contracts  
+- [ ] Networking and Streams  
