@@ -69,8 +69,8 @@ My passion is **cybersecurity**: for the past 1.5 years I've worked across diffe
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Henningagge&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henningagge&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Henningagge&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Henningagge&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
 
 </div>
 
@@ -113,8 +113,6 @@ My passion is **cybersecurity**: for the past 1.5 years I've worked across diffe
 ### 🌐 Let's connect
 
 ![Discord](https://img.shields.io/badge/Discord-rero2141-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Fererorero-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Fererorero)
-[![Boot.dev](https://img.shields.io/badge/Boot.dev-henningagge-E4A11B?style=for-the-badge)](https://www.boot.dev/u/henningagge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
 
