@@ -46,7 +46,7 @@ My passion is **cybersecurity**: for the past 1.5 years I've worked across diffe
 | **Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
 | **Data / Messaging** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
 | **Domain knowledge** | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=flat&logo=hackthebox&logoColor=9FEF00) ![Computer Science](https://img.shields.io/badge/Computer_Science-2c5364?style=flat) ![Software Development](https://img.shields.io/badge/Software_Development-E36209?style=flat) |
-| **Learning platforms** | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white) ![Boot.dev](https://img.shields.io/badge/Boot.dev-E4A11B?style=flat&logoColor=white) ![Range Force](https://img.shields.io/badge/Range_Force-C8102E?style=flat&logoColor=white) |
+| **Learning platforms** | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white) ![Boot.dev](https://img.shields.io/badge/Boot.dev-E4A11B?style=flat&logoColor=white) ![Frontend Masters](https://img.shields.io/badge/Frontend_Masters-C02D28?style=flat&logoColor=white) ![Range Force](https://img.shields.io/badge/Range_Force-C8102E?style=flat&logoColor=white) |
 
 ---
 
@@ -54,13 +54,9 @@ My passion is **cybersecurity**: for the past 1.5 years I've worked across diffe
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/Fererorero">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Fererorero.png" alt="TryHackMe" height="120" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.boot.dev/u/rero2141">
-  <img src="https://img.shields.io/badge/Boot.dev-Henning_Agge-E4A11B?style=for-the-badge&labelColor=0d1117" alt="Boot.dev" />
-</a>
+<a href="https://tryhackme.com/p/Fererorero"><img src="https://img.shields.io/badge/TryHackMe-Fererorero-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+<a href="https://www.boot.dev/u/rero2141"><img src="https://img.shields.io/badge/Boot.dev-Henning_Agge-E4A11B?style=for-the-badge&labelColor=0d1117" alt="Boot.dev" /></a>
+<a href="https://frontendmasters.com"><img src="https://img.shields.io/badge/Frontend_Masters-Learning-C02D28?style=for-the-badge" alt="Frontend Masters" /></a>
 
 </div>
 
@@ -104,17 +100,12 @@ My Boot.dev roadmap for 2026 lives in [`Bootdev.md`](Bootdev.md).
 | :--- | :--- | :--- |
 | Boot.dev TypeScript learning path | Boot.dev | [View certificate](https://www.boot.dev/u/rero2141) |
 | Certificate for Continued Education | Range Force | [View certificate](rangeforcecertificate.pdf) |
-
-## 📚 Cheat sheets & resources
-
-| Topic | File |
-| :--- | :--- |
-| Vim fundamentals | [vim-fundamentals.pdf](vim-fundamentals.pdf) |
-| Bash & Vim regex | [bash-vim-regex.pdf](bash-vim-regex.pdf) |
-| Everything Git | [everything-git-dark.pdf](everything-git-dark.pdf) |
-| Linux command line | [linux-command-line-dark.pdf](linux-command-line-dark.pdf) |
-| Dev tools | [dev-tools-v4.pdf](dev-tools-v4.pdf) |
-| UX design principles | [ux-design-principles-dark.pdf](ux-design-principles-dark.pdf) |
+| Vim Fundamentals | Frontend Masters | [View certificate](vim-fundamentals.pdf) |
+| Bash & Vim Regex | Frontend Masters | [View certificate](bash-vim-regex.pdf) |
+| Everything Git | Frontend Masters | [View certificate](everything-git-dark.pdf) |
+| Linux Command Line | Frontend Masters | [View certificate](linux-command-line-dark.pdf) |
+| Dev Tools | Frontend Masters | [View certificate](dev-tools-v4.pdf) |
+| UX Design Principles | Frontend Masters | [View certificate](ux-design-principles-dark.pdf) |
 
 > Recently read: *The Linux Command Line Bible*, *Pro Git*, *The Software Architect's Handbook*.
 
