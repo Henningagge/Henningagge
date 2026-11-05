@@ -46,7 +46,7 @@ My passion is **cybersecurity**: for the past 1.5 years I've worked across diffe
 | **Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
 | **Data / Messaging** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
 | **Domain knowledge** | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=flat&logo=hackthebox&logoColor=9FEF00) ![Computer Science](https://img.shields.io/badge/Computer_Science-2c5364?style=flat) ![Software Development](https://img.shields.io/badge/Software_Development-E36209?style=flat) |
-| **Learning platforms** | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white) ![Boot.dev](https://img.shields.io/badge/Boot.dev-E4A11B?style=flat&logoColor=white) ![Frontend Masters](https://img.shields.io/badge/Frontend_Masters-C02D28?style=flat&logoColor=white) ![Range Force](https://img.shields.io/badge/Range_Force-C8102E?style=flat&logoColor=white) |
+| **Learning platforms** | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white) ![Boot.dev](https://img.shields.io/badge/Boot.dev-E4A11B?style=flat&logoColor=white) 
 
 ---
 
