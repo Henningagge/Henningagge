@@ -115,7 +115,7 @@ My passion is **cybersecurity**: for the past 1.5 years I've worked across diffe
 
 ![Discord](https://img.shields.io/badge/Discord-rero2141-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Fererorero-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Fererorero)
-[![Boot.dev](https://img.shields.io/badge/Boot.dev-rero2141-E4A11B?style=for-the-badge)](https://www.boot.dev/u/henningagge)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-henningagge-E4A11B?style=for-the-badge)](https://www.boot.dev/u/henningagge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
 
