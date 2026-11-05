@@ -56,7 +56,6 @@ My passion is **cybersecurity**: for the past 1.5 years I've worked across diffe
 
 <a href="https://tryhackme.com/p/Fererorero"><img src="https://img.shields.io/badge/TryHackMe-Fererorero-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 <a href="https://www.boot.dev/u/rero2141"><img src="https://img.shields.io/badge/Boot.dev-Henning_Agge-E4A11B?style=for-the-badge&labelColor=0d1117" alt="Boot.dev" /></a>
-<a href="https://frontendmasters.com"><img src="https://img.shields.io/badge/Frontend_Masters-Learning-C02D28?style=for-the-badge" alt="Frontend Masters" /></a>
 
 </div>
 
