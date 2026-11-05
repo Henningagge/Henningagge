@@ -54,8 +54,9 @@ My passion is **cybersecurity**: for the past 1.5 years I've worked across diffe
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/Fererorero"><img src="https://img.shields.io/badge/TryHackMe-Fererorero-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-<a href="https://www.boot.dev/u/rero2141"><img src="https://img.shields.io/badge/Boot.dev-Henning_Agge-E4A11B?style=for-the-badge&labelColor=0d1117" alt="Boot.dev" /></a>
+<a href="https://tryhackme.com/p/Fererorero"><img src="https://cdn-images.tryhackme.com/public-profile/Fererorero/badge-dark-33648edc9b19.png" alt="Fererorero's TryHackMe badge." width="400" /></a>
+<br/>
+<a href="https://www.boot.dev/u/henningagge"><img src="assets/bootdev-card.svg" alt="Boot.dev profile card" width="400" /></a>
 
 </div>
 
@@ -95,7 +96,7 @@ My passion is **cybersecurity**: for the past 1.5 years I've worked across diffe
 
 | Achievement | Issuer | Link |
 | :--- | :--- | :--- |
-| Boot.dev TypeScript learning path | Boot.dev | [View certificate](https://www.boot.dev/u/rero2141) |
+| Boot.dev TypeScript learning path | Boot.dev | [View certificate](https://www.boot.dev/u/henningagge) |
 | Certificate for Continued Education | Range Force | [View certificate](rangeforcecertificate.pdf) |
 | Vim Fundamentals | Frontend Masters | [View certificate](vim-fundamentals.pdf) |
 | Bash & Vim Regex | Frontend Masters | [View certificate](bash-vim-regex.pdf) |
