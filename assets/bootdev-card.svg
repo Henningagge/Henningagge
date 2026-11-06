@@ -20,9 +20,9 @@
   <text x="124" y="62" class="name">Henning Agge</text>
   <text x="124" y="82" class="role">Archmage · Level 124</text>
   <rect x="124" y="94" width="240" height="6" rx="3" fill="#2a3550"/>
-  <rect x="124" y="94" width="107.6" height="6" rx="3" fill="#E4A11B"/>
-  <text x="124" y="116" class="muted">655,090 XP</text>
-  <text x="124" y="148" class="stat">2,938</text>
+  <rect x="124" y="94" width="100.0" height="6" rx="3" fill="#E4A11B"/>
+  <text x="124" y="116" class="muted">655,414 XP</text>
+  <text x="124" y="148" class="stat">2,939</text>
   <text x="124" y="162" class="muted" style="font-size:10px">lessons</text>
   <text x="214" y="148" class="stat">Top 0.2%</text>
   <text x="214" y="162" class="muted" style="font-size:10px">all-time XP</text>
