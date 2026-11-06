@@ -21,13 +21,12 @@
 ## 👋 About me
 
 I'm **Henning**, a working student at **OTTO** (German online retailer) and a Computer Science student at **Nordakademie** in Elmshorn.
-My passion is **cybersecurity**: for the past 1.5 years I've worked across different cybersecurity departments at OTTO, on both frontend and operations.
+My passion is **cybersecurity**: for the past 2.5 years I've worked across different cybersecurity departments at OTTO, on both frontend and operations.
 
 - 🐧 I run **Ubuntu Linux** and live in the terminal with **Neovim**
 - 🔭 Building a filter to control my social media consumption: "choose my poison"
 - 📊 Learning **Power BI** for the operations dashboards we design at OTTO
 - 🌱 Leveling up on **Boot.dev** (TypeScript path done, Go next) and **TryHackMe**
-- 🌍 Fun fact: 2000+ hours staring at world maps, so I'm quite the geography enthusiast
 
 <div align="center">
 
